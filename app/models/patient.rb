@@ -1,1 +1,1 @@
-class Patient < ActiveRecord::B
+class Patient < ActiveRecord::Base 
